@@ -1,0 +1,58 @@
+export default [
+  {
+    name: 'John Doe',
+    user: 'user1',
+    livesIn: 'Antipolo, Rizal',
+    from: 'Infanta, Quezon',
+    study: 'Computer Engineering',
+  },
+  {
+    name: 'Jenny Dawson',
+    user: 'user2',
+    livesIn: 'Morong, Rizal',
+    from: 'Real, Quezon',
+    study: 'Electrical Engineering',
+  },
+  {
+    name: 'Tony Hawk',
+    user: 'user3',
+    livesIn: 'Ortigas, Pasig',
+    from: 'Tacloban, Samar',
+    study: 'English Communication',
+  },
+  {
+    name: 'Marshall Ericksen',
+    user: 'user2',
+    livesIn: 'Novalichez, Quezon',
+    from: 'Sta. Mesa, Manila',
+    study: 'Computer Engineering',
+  },
+  {
+    name: 'Ted Mosby',
+    user: 'user2',
+    livesIn: 'Taguig, Manila',
+    from: 'New York, United States',
+    study: 'Computer Engineering',
+  },
+  {
+    name: 'Albert Einstein',
+    user: 'user3',
+    livesIn: 'San Miguel, Bulacan',
+    from: 'Oranbo, Pasig',
+    study: 'Computer Engineering',
+  },
+  {
+    name: 'Satoru Gojou',
+    user: 'user2',
+    livesIn: 'Taytay, Rizal',
+    from: 'Tokyo, Japan',
+    study: 'Computer Engineering',
+  },
+  {
+    name: 'Lily Aldrin',
+    user: 'user1',
+    livesIn: 'Cainta, Rizal',
+    from: 'Dipaculao, Baler',
+    study: 'Computer Engineering',
+  },
+];
